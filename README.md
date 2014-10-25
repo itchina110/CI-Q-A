@@ -5,5 +5,3 @@ CI-Q-A
 用户中心
 问题管理 =  发布问题、回答问题
 
-![介绍图片](http://ww4.sinaimg.cn/mw1024/5a746d2ajw1elnof92ic5j20xc18gjzs.jpg)
-
